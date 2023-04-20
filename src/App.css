@@ -1,0 +1,14 @@
+.header {
+    text-align: end;
+}
+
+.header a {
+    text-decoration: none;
+    margin: 0px 20px 0px 10px;
+    font-weight: 500;
+    color: white;
+}
+
+.header a:hover {
+    color: black;
+}
